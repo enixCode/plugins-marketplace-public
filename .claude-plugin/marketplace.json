@@ -12,7 +12,7 @@
     {
       "name": "secret-mask",
       "source": {
-        "type": "github",
+        "source": "github",
         "repo": "enixCode/secret-mask"
       },
       "description": "Masks secret values from Claude Code's view. Real files stay untouched.",
