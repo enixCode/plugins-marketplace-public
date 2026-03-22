@@ -12,8 +12,8 @@
     {
       "name": "secret-mask",
       "source": {
-        "source": "github",
-        "repo": "enixCode/secret-mask"
+        "source": "url",
+        "url": "https://github.com/enixCode/secret-mask.git"
       },
       "description": "Masks secret values from Claude Code's view. Real files stay untouched.",
       "version": "0.1.0",
