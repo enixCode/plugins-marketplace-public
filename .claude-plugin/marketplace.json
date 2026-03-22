@@ -1,0 +1,26 @@
+{
+  "name": "enix-public",
+  "owner": {
+    "name": "enixCode",
+    "email": "enixcode@proton.me"
+  },
+  "metadata": {
+    "description": "Marketplace public enixCode — plugins et skills open source",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "secret-mask",
+      "source": {
+        "type": "github",
+        "repo": "enixCode/secret-mask"
+      },
+      "description": "Masks secret values from Claude Code's view. Real files stay untouched.",
+      "version": "0.1.0",
+      "author": {
+        "name": "enixCode"
+      },
+      "keywords": ["security", "secrets", "masking", "env", "hooks"]
+    }
+  ]
+}
